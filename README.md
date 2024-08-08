@@ -29,9 +29,3 @@
 ###
 
 <h1 align="left"></h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/MatheusAugusto00/MatheusAugusto00/output/snake.svg" alt="Snake animation" />
-
-###
