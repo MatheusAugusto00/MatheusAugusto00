@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação com um grande interesse em Python e suas aplicações em diversas áreas da tecnologia.</p>
+<p align="left">Sou Matheus Augusto Neves Machado, estudante de Ciência da Computação em Brasília, Brasil.</p>
 
 ###
 
